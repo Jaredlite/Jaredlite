@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jaredlite
+- 👀 I’m interested in creating things and breaking them
+- 🌱 I’m currently taking CS50x and doing some IOS development with swift
+- 💞️ I’m looking to collaborate on anything that help expand my mind
